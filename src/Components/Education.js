@@ -9,24 +9,31 @@ class Education extends Component {
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">University of Colorado Boulder</h3>
-              <div className="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 className="mb-0">Lighthouse Labs</h3>
+              <div className="subheading mb-3">Web Development Bootcamp</div>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2006 - May 2010</span>
+              <span className="text-primary">Graduated November 2018</span>
+            </div>
+          </div>
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="resume-content">
+              <h3 className="mb-0">Vancouver Community College</h3>
+              <div className="subheading mb-3">Medical Transcriptionist Certificate</div>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">Graduated November 2014</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">James Buchanan High School</h3>
-              <div className="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
+              <h3 className="mb-0">Simon Fraser University</h3>
+              <div className="subheading mb-3">Health Sciences</div>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2002 - May 2006</span>
+              <span className="text-primary">September 2011 - </span>
             </div>
           </div>
 
