@@ -19,13 +19,13 @@ class Skills extends Component {
               <i className="fab fa-js-square"></i>
             </li>
             <li className="list-inline-item">
-              <i className="fab fa-angular"></i>
-            </li>
-            <li className="list-inline-item">
               <i className="fab fa-react"></i>
             </li>
             <li className="list-inline-item">
               <i className="fab fa-node-js"></i>
+            </li>
+            <li className="list-inline-item">
+              <i className="fab fa-php"></i>
             </li>
             <li className="list-inline-item">
               <i className="fab fa-sass"></i>
@@ -37,13 +37,13 @@ class Skills extends Component {
               <i className="fab fa-wordpress"></i>
             </li>
             <li className="list-inline-item">
-              <i className="fab fa-gulp"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-grunt"></i>
-            </li>
-            <li className="list-inline-item">
               <i className="fab fa-npm"></i>
+            </li>
+            <li className="list-inline-item">
+              <i className="fab fa-yarn"></i>
+            </li>
+            <li className="list-inline-item">
+              <i className="fab fa-github"></i>
             </li>
           </ul>
 
@@ -52,9 +52,6 @@ class Skills extends Component {
             <li>
               <i className="fa-li fa fa-check"></i>
               Mobile-First, Responsive Design</li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging</li>
             <li>
               <i className="fa-li fa fa-check"></i>
               Cross Functional Teams</li>
