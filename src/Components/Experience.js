@@ -9,47 +9,121 @@ class Experience extends Component {
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
-              <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+              <h3 className="mb-0">FrontEnd Web Developer</h3>
+              <div className="subheading mb-3">Loomo Marketing</div>
+              <ul>
+                <li> 
+                  Worked alongside a small team delivering multiple projects to clients
+                  simultaneously 
+                </li>
+                <li>
+                  Building WordPress pages with WooCommerce, Elementor and CSS
+                  according to design flats
+                </li>  
+                <li>
+                  Participate in weekly scrums to plan sprints according to customer
+                  timelines and expectations
+                </li>
+                <li>
+                  Using PHP, updated backend themes for WordPress
+                </li>
+                <li>
+                  Completed three large client roll-outs
+                </li>
+              </ul>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">March 2013 - Present</span>
+              <span className="text-primary">January 2020 - Present</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
-              <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
-            </div>
+              <h3 className="mb-0">Software Developer</h3>
+              <div className="subheading mb-3">HomerBot</div>
+                <ul>
+                  <li> 
+                    Startup comprised of up to ten people 
+                  </li>
+                  <li>
+                    Designed and build chatbots integrated with Slack and Facebook Messenger using javascript and Azure function apps
+                  </li>  
+                  <li>
+                    Developed analytics platform for rental statistics using React
+                  </li>
+                  <li>
+                    Researched, proposed, and implemented database solution using Postgres and Airtable
+                  </li>
+                  <li>
+                    Implemented map search feature using Google maps and TomTom APIs with GeoJSON and PostGIS
+                  </li>
+                  <li>
+                    Mentored four BCIT computer systems and two computer design students for six months
+                  </li>
+                  <li>
+                    Helped host launch events for products and interfaced with multiple parties including investors to promote products
+                  </li>
+                </ul>            
+              </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">December 2011 - March 2013</span>
+              <span className="text-primary">November 2018 - January 2020</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Junior Web Designer</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
-              <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+              <h3 className="mb-0">Intro to FrontEnd Development Mentor</h3>
+              <div className="subheading mb-3">Lighthouse Labs</div>
+              <ul>
+                <li>
+                  Assisted in teaching 14 students
+                </li>
+                <li>
+                  Worked through HTML, CSS, javascript, AJAX, and jquery with group
+                </li>
+                <li>
+                  Taught javascript intro lecture to class
+                </li>
+              </ul>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">July 2010 - December 2011</span>
+              <span className="text-primary">November 2019 - January 2020</span>
+            </div>
+          </div>
+
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="resume-content">
+              <h3 className="mb-0">Medical Transcriptionist</h3>
+              <div className="subheading mb-3">Brooke Radiology</div>
+              <ul>
+                <li>
+                  Transcribed x-ray and ultrasound doctor reports
+                </li>
+                <li>
+                  Increased productivity of team by producing twice as many reports as average transcriptionist with minimal errors
+                </li>
+                <li>
+                  Typed reports at approximately 90 WPM
+                </li>
+              </ul>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">February 2016 - August 2018</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">Web Design Intern</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
-              <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+              <h3 className="mb-0">Shift Supervisor</h3>
+              <div className="subheading mb-3">Starbucks Coffee Company</div>
+              
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">September 2008 - June 2010</span>
+              <span className="text-primary">August 2010 - February 2016</span>
             </div>
           </div>
+   
         </div>
       </section>
     )
