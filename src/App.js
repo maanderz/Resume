@@ -5,6 +5,7 @@ import About from './Components/About'
 import Experience from './Components/Experience'
 import Education from './Components/Education'
 import Skills from './Components/Skills'
+import Work from './Components/Work'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <hr className="m-0" />
         <Skills />
         <hr className="m-0" />
+        <Work />
       </div>
     </div>
   );
